@@ -15,9 +15,9 @@ Hier auf meinem Profil findest du eine Übersicht meiner Projekte aus dem Studiu
 Hier ist eine Auswahl meiner abgeschlossenen Projekte. Klicke auf die Links, um dir den Code genauer anzusehen:
 
 ### ☕ Java & Spring Boot Projekte
-- **[Name deines Spring-Boot-Projekts](Link zu deinem Repo)**
-  Kurze Beschreibung (z.B. "Ein Backend-Service mit REST-API, der Nutzerdaten verarbeitet und in einer Datenbank speichert.")
-  - **Technologien:** Java, Spring Boot, SQL
+- **[Autovermietung](https://github.com/Akif02/Autovermietung.git)**
+  Kurze Beschreibung ("Eine robuste Spring Boot Anwendung zur Verwaltung einer Autovermietung. Diese API ermöglicht es, Fahrzeuge zu verwalten, Benutzer zu registrieren und Reservierungen mit automatischer Preisberechnung durchzuführen.")
+  - **Technologien:** Java, Spring Boot, mySQL
 
 - **[Name eines weiteren Java-Projekts](Link zu deinem Repo)**
   Kurze Beschreibung (z.B. "Eine klassische Desktop-Anwendung oder ein Algorithmus-Projekt aus dem Studium.")
