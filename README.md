@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hallo, ich bin Akif! 👋
 
-<!--
-**Akif02/Akif02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Student der **Angewandten Informatik an der HAW Hamburg** und begeistere mich für Softwareentwicklung auf verschiedenen Ebenen – von hardwarenaher Programmierung bis hin zur Entwicklung moderner Backend-Systeme.
 
-Here are some ideas to get you started:
+Hier auf meinem Profil findest du eine Übersicht meiner Projekte aus dem Studium und meiner Freizeit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Meine Technologien & Fähigkeiten
+- **Sprachen:** Java, C++, Assembler, SQL
+- **Frameworks:** Spring Boot
+- **Tools:** IntelliJ IDEA, Git, GitHub
+- **Konzepte:** Objektorientierte Programmierung (OOP), Datenbankdesign, Hardwarenahe Programmierung
+
+## 🚀 Meine Projekte
+
+Hier ist eine Auswahl meiner abgeschlossenen Projekte. Klicke auf die Links, um dir den Code genauer anzusehen:
+
+### ☕ Java & Spring Boot Projekte
+- **[Name deines Spring-Boot-Projekts](Link zu deinem Repo)**
+  Kurze Beschreibung (z.B. "Ein Backend-Service mit REST-API, der Nutzerdaten verarbeitet und in einer Datenbank speichert.")
+  - **Technologien:** Java, Spring Boot, SQL
+
+- **[Name eines weiteren Java-Projekts](Link zu deinem Repo)**
+  Kurze Beschreibung (z.B. "Eine klassische Desktop-Anwendung oder ein Algorithmus-Projekt aus dem Studium.")
+  - **Technologien:** Java
+
+### ⚙️ C++ Projekte
+- **[Name deines C++-Projekts](Link zu deinem Repo)**
+  Kurze Beschreibung (z.B. "Ein performantes Programm zur Datenverarbeitung oder ein kleines Spiel.")
+  - **Technologien:** C++
+
+### 💻 Assembler Projekte
+- **[Name deines Assembler-Projekts](Link zu deinem Repo)**
+  Kurze Beschreibung (z.B. "Ein hardwarenahes Projekt zur Leistungsoptimierung oder ein Mikrocontroller-Programm.")
+  - **Technologien:** Assembler
+
+---
+📫 **Kontakt:** Du erreichst mich am besten über akif-erdem@hotmail.de.
